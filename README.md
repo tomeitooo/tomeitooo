@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # my-work-experience
-This is Tomeito's curriculum vitae.(職務経歴書) #Sutudent Developer in Japan🎌
+This is Tomeito's curriculum vitae. #Sutudent Developer in Japan🎌
 
 ---
 
