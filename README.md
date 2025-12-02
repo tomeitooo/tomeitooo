@@ -51,7 +51,6 @@ This is Tomeito's curriculum vitae. #Sutudent Developer in Japan🎌
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/44926913/179649684-0c2d153b-8c7b-4751-a435-34acfbce2248.gif">
-      <img width=800px src="https://github-readme-activity-graph.cyclic.app/graph?username=k4sima&theme=github-compact&bg_color=transparent&radius=16&custom_title=%20">
     </td>
   </tr>
 </table>
